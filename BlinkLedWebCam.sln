@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlinkWebCam", "BlinkWebCam\BlinkWebCam.csproj", "{8A134C24-FD56-4AF2-A8FA-4D0B77DF47E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlinkLedWebCam", "BlinkWebCam\BlinkLedWebCam.csproj", "{8A134C24-FD56-4AF2-A8FA-4D0B77DF47E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
